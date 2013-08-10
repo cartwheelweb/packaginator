@@ -2,12 +2,14 @@
 Packaginator
 ===============
 
-.. warning:: This project has been moved to https://github.com/opencomparison/opencomparison
+THIS PROJECT HAS MOVED!
+========================
 
-.. contents:: Contents
+Please go to to https://github.com/opencomparison/opencomparison
+
 
 WARNING
-=======
+===========
 
 This project is under heavy development at the PyCon 2011 sprints and may not be 100% stable.  If you're interested in standing up a packages site, please contact @pydanny and @audreyr and we'll help you get involved.
 
